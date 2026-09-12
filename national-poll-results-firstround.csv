@@ -1,0 +1,545 @@
+poll_id,register_tse,institute,poll_date,field_dates,sample,margin_pp,method,scenario,candidate,party,percent
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Ratinho Jr,Lula,PT,39
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Ratinho Jr,Flávio Bolsonaro,PL,32
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Ratinho Jr,Ratinho Jr,PSD,9
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Ratinho Jr,Romeu Zema,Novo,2
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Ratinho Jr,Renan Santos,Missão,2
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Eduardo Leite,Lula,PT,40
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Eduardo Leite,Flávio Bolsonaro,PL,34
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Eduardo Leite,Eduardo Leite,PSD,4
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Eduardo Leite,Romeu Zema,Novo,3
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Eduardo Leite,Renan Santos,Missão,2
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Caiado,Lula,PT,40
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Caiado,Flávio Bolsonaro,PL,33
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Caiado,Ronaldo Caiado,PSD,5
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Caiado,Romeu Zema,Novo,3
+Encomendada pela Record,Encomendada pela Record,Real Time Big Data/Record,2026-03-03,,2000,2,Telefônica,Cenário com Caiado,Renan Santos,Missão,2
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Eduardo Leite,Lula,PT,39
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Eduardo Leite,Flávio Bolsonaro,PL,34
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Eduardo Leite,Romeu Zema,Novo,4
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Eduardo Leite,Eduardo Leite,PSD,3
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Eduardo Leite,Renan Santos,Missão,3
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Caiado,Lula,PT,39
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Caiado,Flávio Bolsonaro,PL,33
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Caiado,Romeu Zema,Novo,5
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Caiado,Ronaldo Caiado,PSD,4
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Caiado,Renan Santos,Missão,3
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Tarcísio + Ratinho,Lula,PT,39
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Tarcísio + Ratinho,Tarcísio de Freitas,Rep,21
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Tarcísio + Ratinho,Ratinho Jr,PSD,11
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Tarcísio + Ratinho,Romeu Zema,Novo,5
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Cenário com Tarcísio + Ratinho,Renan Santos,Missão,3
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Com Haddad (sem Lula),Flávio Bolsonaro,PL,33
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Com Haddad (sem Lula),Fernando Haddad,PT,21
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Com Haddad (sem Lula),Ratinho Jr,PSD,11
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Com Haddad (sem Lula),Romeu Zema,Novo,5
+Folha de S.Paulo,Folha de S.Paulo,Datafolha,2026-03-07,,2004,2,Presencial,Com Haddad (sem Lula),Renan Santos,Missão,4
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Ratinho e Zema,Lula,PT,37
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Ratinho e Zema,Flávio Bolsonaro,PL,30
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Ratinho e Zema,Ratinho Jr,PSD,7
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Ratinho e Zema,Romeu Zema,Novo,3
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Ratinho e Zema,Renan Santos,Missão,1
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Caiado e Zema,Lula,PT,39
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Caiado e Zema,Flávio Bolsonaro,PL,32
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Caiado e Zema,Ronaldo Caiado,PSD,4
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Caiado e Zema,Romeu Zema,Novo,2
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Caiado e Zema,Renan Santos,Missão,1
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Leite,Lula,PT,36
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Leite,Flávio Bolsonaro,PL,35
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Leite,Eduardo Leite,PSD,3
+Genial Investimentos,Genial Investimentos,Quaest/Genial Investimentos,2026-03-11,,2004,2,Presencial,Cenário com Leite,Renan Santos,Missão,2
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Cenário Principal,Lula,PT,45.9
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Cenário Principal,Flávio Bolsonaro,PL,40.1
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Cenário Principal,Renan Santos,Missão,4.4
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Cenário Principal,Ronaldo Caiado,PSD,3.7
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Cenário Principal,Romeu Zema,Novo,3.1
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Com Tarcísio (sem Flávio),Lula,PT,45.6
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Com Tarcísio (sem Flávio),Tarcísio de Freitas,Rep,33.3
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Com Tarcísio (sem Flávio),Romeu Zema,Novo,6.2
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Com Tarcísio (sem Flávio),Renan Santos,Missão,4.6
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Com Tarcísio (sem Flávio),Ronaldo Caiado,PSD,4.2
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Com Haddad (sem Lula),Flávio Bolsonaro,PL,40.1
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Com Haddad (sem Lula),Fernando Haddad,PT,37.6
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Com Haddad (sem Lula),Renan Santos,Missão,4.5
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Com Haddad (sem Lula),Ronaldo Caiado,PSD,3.9
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Com Haddad (sem Lula),Romeu Zema,Novo,3
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Flávio + Tarcísio divididos,Lula,PT,45.7
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Flávio + Tarcísio divididos,Flávio Bolsonaro,PL,35.8
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Flávio + Tarcísio divididos,Tarcísio de Freitas,Rep,7.9
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Flávio + Tarcísio divididos,Renan Santos,Missão,4.3
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Flávio + Tarcísio divididos,Ronaldo Caiado,PSD,2.8
+BR-04227/2026,BR-04227/2026,AtlasIntel/Bloomberg,2026-03-25,,5028,1,Online/Big Data,Flávio + Tarcísio divididos,Romeu Zema,Novo,1.6
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Cenário com Ratinho e Zema,Lula,PT,38
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Cenário com Ratinho e Zema,Flávio Bolsonaro,PL,36
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Cenário com Ratinho e Zema,Ciro Gomes,PSDB,7
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Cenário com Ratinho e Zema,Ratinho Jr,PSD,4
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Cenário com Ratinho e Zema,Romeu Zema,Novo,3
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Cenário com Ratinho e Zema,Ronaldo Caiado,PSD,3
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Cenário com Ratinho e Zema,Renan Santos,Missão,1
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Cenário com Caiado e Zema,Lula,PT,38
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Cenário com Caiado e Zema,Flávio Bolsonaro,PL,37
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Cenário com Caiado e Zema,Ciro Gomes,PSDB,7
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Cenário com Caiado e Zema,Ronaldo Caiado,PSD,5
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Cenário com Caiado e Zema,Romeu Zema,Novo,5
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Cenário com Caiado e Zema,Renan Santos,Missão,1
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Empate numérico,Flávio Bolsonaro,PL,37
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Empate numérico,Lula,PT,37
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Empate numérico,Ciro Gomes,PSDB,7
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Empate numérico,Ratinho Jr,PSD,5
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Empate numérico,Romeu Zema,Novo,4
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Empate numérico,Renan Santos,Missão,1
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Flávio lidera com Eduardo Leite,Flávio Bolsonaro,PL,40
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Flávio lidera com Eduardo Leite,Lula,PT,38
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Flávio lidera com Eduardo Leite,Ciro Gomes,PSDB,7
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Flávio lidera com Eduardo Leite,Romeu Zema,Novo,5
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Flávio lidera com Eduardo Leite,Eduardo Leite,PSD,3
+AESP (Assoc. Emissoras SP),AESP (Assoc. Emissoras SP),Gerp/AESP,2026-03-27,,2000,2.24,Presencial,Flávio lidera com Eduardo Leite,Renan Santos,Missão,1
+BR-00873/2026,BR-00873/2026,Paraná Pesquisas,2026-03-30,,2080,2.2,Presencial,Cenário Único (com Caiado/PSD),Lula,PT,41.3
+BR-00873/2026,BR-00873/2026,Paraná Pesquisas,2026-03-30,,2080,2.2,Presencial,Cenário Único (com Caiado/PSD),Flávio Bolsonaro,PL,37.8
+BR-00873/2026,BR-00873/2026,Paraná Pesquisas,2026-03-30,,2080,2.2,Presencial,Cenário Único (com Caiado/PSD),Ronaldo Caiado,PSD,3.6
+BR-00873/2026,BR-00873/2026,Paraná Pesquisas,2026-03-30,,2080,2.2,Presencial,Cenário Único (com Caiado/PSD),Romeu Zema,Novo,3
+BR-00873/2026,BR-00873/2026,Paraná Pesquisas,2026-03-30,,2080,2.2,Presencial,Cenário Único (com Caiado/PSD),Renan Santos,Missão,1.2
+BR-00873/2026,BR-00873/2026,Paraná Pesquisas,2026-03-30,,2080,2.2,Presencial,Cenário Único (com Caiado/PSD),Aldo Rebelo,Novo,1.1
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 1 (com Caiado),Lula,PT,41
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 1 (com Caiado),Flávio Bolsonaro,PL,38
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 1 (com Caiado),Romeu Zema,Novo,4
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 1 (com Caiado),Ronaldo Caiado,PSD,4
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 1 (com Caiado),Renan Santos,Missão,2
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 1 (com Caiado),Aldo Rebelo,DC,0
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 2 (com Eduardo Leite),Lula,PT,39
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 2 (com Eduardo Leite),Flávio Bolsonaro,PL,39
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 2 (com Eduardo Leite),Romeu Zema,Novo,5
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 2 (com Eduardo Leite),Eduardo Leite,PSD,4
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 2 (com Eduardo Leite),Renan Santos,Missão,3
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 2 (com Eduardo Leite),Aldo Rebelo,DC,1
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 3 (sem 3ª via PSD),Lula,PT,42
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 3 (sem 3ª via PSD),Flávio Bolsonaro,PL,39
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 3 (sem 3ª via PSD),Romeu Zema,Novo,6
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 3 (sem 3ª via PSD),Renan Santos,Missão,3
+BR-07875/2026,BR-07875/2026,Nexus/BTG Pactual,2026-03-30,,2000,2,Telefônica,Cenário 3 (sem 3ª via PSD),Aldo Rebelo,DC,1
+BR-03627/2026,BR-03627/2026,Real Time Big Data,2026-05-05,2026-05-02 a 2026-05-04,2000,2,Telefônica,Cenário Principal (1º turno),Lula,PT,40
+BR-03627/2026,BR-03627/2026,Real Time Big Data,2026-05-05,2026-05-02 a 2026-05-04,2000,2,Telefônica,Cenário Principal (1º turno),Flávio Bolsonaro,PL,34
+BR-03627/2026,BR-03627/2026,Real Time Big Data,2026-05-05,2026-05-02 a 2026-05-04,2000,2,Telefônica,Cenário Principal (1º turno),Ronaldo Caiado,PSD,5
+BR-03627/2026,BR-03627/2026,Real Time Big Data,2026-05-05,2026-05-02 a 2026-05-04,2000,2,Telefônica,Cenário Principal (1º turno),Romeu Zema,Novo,4
+BR-03627/2026,BR-03627/2026,Real Time Big Data,2026-05-05,2026-05-02 a 2026-05-04,2000,2,Telefônica,Cenário Principal (1º turno),Renan Santos,Missão,3
+BR-03627/2026,BR-03627/2026,Real Time Big Data,2026-05-05,2026-05-02 a 2026-05-04,2000,2,Telefônica,Cenário Principal (1º turno),Augusto Cury,Avante,1
+BR-03627/2026,BR-03627/2026,Real Time Big Data,2026-05-05,2026-05-02 a 2026-05-04,2000,2,Telefônica,Cenário Principal (1º turno),Aldo Rebelo,DC,1
+BR-03627/2026,BR-03627/2026,Real Time Big Data,2026-05-05,2026-05-02 a 2026-05-04,2000,2,Telefônica,Cenário Principal (1º turno),Cabo Daciolo,,1
+Paraná Pesquisas-2026-05-07,,Paraná Pesquisas,2026-05-07,Maio 2026,,,Presencial,Cenário SP (1º turno),Flávio Bolsonaro,PL,39.3
+Paraná Pesquisas-2026-05-07,,Paraná Pesquisas,2026-05-07,Maio 2026,,,Presencial,Cenário SP (1º turno),Lula,PT,36
+Paraná Pesquisas-2026-05-08,,Paraná Pesquisas,2026-05-08,Maio 2026,,,Presencial,Cenário MT (1º turno),Flávio Bolsonaro,PL,44.6
+Paraná Pesquisas-2026-05-08,,Paraná Pesquisas,2026-05-08,Maio 2026,,,Presencial,Cenário MT (1º turno),Lula,PT,29.8
+Quaest/Genial-2026-05-13,,Quaest/Genial,2026-05-13,2026-05-08 a 2026-05-11,2004,2,Presencial,Cenário Principal (1º turno),Lula,PT,39
+Quaest/Genial-2026-05-13,,Quaest/Genial,2026-05-13,2026-05-08 a 2026-05-11,2004,2,Presencial,Cenário Principal (1º turno),Flávio Bolsonaro,PL,33
+Quaest/Genial-2026-05-13,,Quaest/Genial,2026-05-13,2026-05-08 a 2026-05-11,2004,2,Presencial,Cenário Principal (1º turno),Ronaldo Caiado,PSD,4
+Quaest/Genial-2026-05-13,,Quaest/Genial,2026-05-13,2026-05-08 a 2026-05-11,2004,2,Presencial,Cenário Principal (1º turno),Romeu Zema,Novo,4
+BR-00290/2026,BR-00290/2026,Datafolha,2026-05-15,2026-05-12 a 2026-05-14,2004,2,Presencial,Cenário Principal (1º turno),Lula,PT,39
+BR-00290/2026,BR-00290/2026,Datafolha,2026-05-15,2026-05-12 a 2026-05-14,2004,2,Presencial,Cenário Principal (1º turno),Flávio Bolsonaro,PL,35
+AtlasIntel-2026-05-19,,AtlasIntel,2026-05-19,2026-05-17 a 2026-05-18,5000,1,Recruit-and-Revisit (CAWI),Cenário Principal (1º turno),Lula,PT,47
+AtlasIntel-2026-05-19,,AtlasIntel,2026-05-19,2026-05-17 a 2026-05-18,5000,1,Recruit-and-Revisit (CAWI),Cenário Principal (1º turno),Flávio Bolsonaro,PL,34.3
+Vox Brasil-2026-05-20,,Vox Brasil,2026-05-20,maio de 2026,1200,3,Pesquisa nacional,Cenário Principal (2º turno),Lula,PT,46.8
+Vox Brasil-2026-05-20,,Vox Brasil,2026-05-20,maio de 2026,1200,3,Pesquisa nacional,Cenário Principal (2º turno),Flávio Bolsonaro,PL,38.1
+Datafolha-2026-05-22,,Datafolha,2026-05-22,maio de 2026 (publicada 22/Mai sexta),2004,2,Presencial,Cenário Principal (1º turno),Lula,PT,40
+Datafolha-2026-05-22,,Datafolha,2026-05-22,maio de 2026 (publicada 22/Mai sexta),2004,2,Presencial,Cenário Principal (1º turno),Flávio Bolsonaro,PL,31
+Indexa Pesquisas-2026-05-27,,Indexa Pesquisas,2026-05-27,maio de 2026 (publicada 27/Mai quarta via JOTA),2000,2,Online/painel,Cenário Principal (1º turno),Lula,PT,39
+Indexa Pesquisas-2026-05-27,,Indexa Pesquisas,2026-05-27,maio de 2026 (publicada 27/Mai quarta via JOTA),2000,2,Online/painel,Cenário Principal (1º turno),Flávio Bolsonaro,PL,30
+BR-02918/2026,BR-02918/2026,Meio/Ideia,2026-05-28,2026-05-23 a 2026-05-27,1500,2.5,Misto,Cenário Principal (1º turno),Lula,PT,38.5
+BR-02918/2026,BR-02918/2026,Meio/Ideia,2026-05-28,2026-05-23 a 2026-05-27,1500,2.5,Misto,Cenário Principal (1º turno),Flávio Bolsonaro,PL,31.5
+BR-02918/2026,BR-02918/2026,Meio/Ideia,2026-05-28,2026-05-23 a 2026-05-27,1500,2.5,Misto,Cenário Principal (1º turno),Ronaldo Caiado,PSD,5.5
+BR-02918/2026,BR-02918/2026,Meio/Ideia,2026-05-28,2026-05-23 a 2026-05-27,1500,2.5,Misto,Cenário Principal (1º turno),Romeu Zema,Novo,2.4
+BR-02918/2026,BR-02918/2026,Meio/Ideia,2026-05-28,2026-05-23 a 2026-05-27,1500,2.5,Misto,Cenário Principal (1º turno),Renan Santos,Missão,2.1
+BR-05864/2026,BR-05864/2026,Real Time Big Data,2026-06-01,2026-05-29 a 2026-05-30,2000,2,Telefônico,Cenário Principal (1º turno),Lula,PT,38
+BR-05864/2026,BR-05864/2026,Real Time Big Data,2026-06-01,2026-05-29 a 2026-05-30,2000,2,Telefônico,Cenário Principal (1º turno),Flávio Bolsonaro,PL,31
+BR-05864/2026,BR-05864/2026,Real Time Big Data,2026-06-01,2026-05-29 a 2026-05-30,2000,2,Telefônico,Cenário Principal (1º turno),Ronaldo Caiado,PSD,6
+BR-05864/2026,BR-05864/2026,Real Time Big Data,2026-06-01,2026-05-29 a 2026-05-30,2000,2,Telefônico,Cenário Principal (1º turno),Renan Santos,Missão,6
+BR-05864/2026,BR-05864/2026,Real Time Big Data,2026-06-01,2026-05-29 a 2026-05-30,2000,2,Telefônico,Cenário Principal (1º turno),Romeu Zema,Novo,4
+BR-05864/2026,BR-05864/2026,Real Time Big Data,2026-06-01,2026-05-29 a 2026-05-30,2000,2,Telefônico,Cenário Principal (1º turno),Aécio Neves,PSDB,3
+BR-08016/2026,BR-08016/2026,Vox Brasil,2026-06-05,2026-06-01 a 2026-06-03,2100,2.15,Pesquisa nacional,Cenário Principal (1º turno),Lula,PT,42.1
+BR-08016/2026,BR-08016/2026,Vox Brasil,2026-06-05,2026-06-01 a 2026-06-03,2100,2.15,Pesquisa nacional,Cenário Principal (1º turno),Flávio Bolsonaro,PL,33.6
+BR-08016/2026,BR-08016/2026,Vox Brasil,2026-06-05,2026-06-01 a 2026-06-03,2100,2.15,Pesquisa nacional,Cenário Principal (1º turno),Ronaldo Caiado,PSD,6.9
+Quaest/Genial-2026-06-10,,Quaest/Genial,2026-06-10,2026-06-05 a 2026-06-08,2004,2,Presencial,Cenário Principal (1º turno),Lula,PT,39
+Quaest/Genial-2026-06-10,,Quaest/Genial,2026-06-10,2026-06-05 a 2026-06-08,2004,2,Presencial,Cenário Principal (1º turno),Flávio Bolsonaro,PL,29
+Quaest/Genial-2026-06-10,,Quaest/Genial,2026-06-10,2026-06-05 a 2026-06-08,2004,2,Presencial,Cenário Principal (1º turno),Renan Santos,Missão,3
+Quaest/Genial-2026-06-10,,Quaest/Genial,2026-06-10,2026-06-05 a 2026-06-08,2004,2,Presencial,Cenário Principal (1º turno),Ronaldo Caiado,PSD,3
+Quaest/Genial-2026-06-10,,Quaest/Genial,2026-06-10,2026-06-05 a 2026-06-08,2004,2,Presencial,Cenário Principal (1º turno),Aécio Neves,PSDB,2
+Quaest/Genial-2026-06-10,,Quaest/Genial,2026-06-10,2026-06-05 a 2026-06-08,2004,2,Presencial,Cenário Principal (1º turno),Romeu Zema,Novo,2
+BR-06645/2026,BR-06645/2026,BTG/Nexus,2026-06-15,2026-06-12 a 2026-06-14,2017,2,Pesquisa nacional,Cenário Principal (1º turno),Lula,PT,42
+BR-06645/2026,BR-06645/2026,BTG/Nexus,2026-06-15,2026-06-12 a 2026-06-14,2017,2,Pesquisa nacional,Cenário Principal (1º turno),Flávio Bolsonaro,PL,33
+BR-04256/2026,BR-04256/2026,CNT/MDA,2026-06-16,2026-06-10 a 2026-06-14,2002,2.2,Presencial,Cenário Principal (1º turno),Lula,PT,41.8
+BR-04256/2026,BR-04256/2026,CNT/MDA,2026-06-16,2026-06-10 a 2026-06-14,2002,2.2,Presencial,Cenário Principal (1º turno),Flávio Bolsonaro,PL,28.2
+BR-04256/2026,BR-04256/2026,CNT/MDA,2026-06-16,2026-06-10 a 2026-06-14,2002,2.2,Presencial,Cenário Principal (1º turno),Ronaldo Caiado,PSD,4
+BR-04256/2026,BR-04256/2026,CNT/MDA,2026-06-16,2026-06-10 a 2026-06-14,2002,2.2,Presencial,Cenário Principal (1º turno),Romeu Zema,Novo,2.8
+BR-04256/2026,BR-04256/2026,CNT/MDA,2026-06-16,2026-06-10 a 2026-06-14,2002,2.2,Presencial,Cenário Principal (1º turno),Joaquim Barbosa,DC,2.3
+BR-04256/2026,BR-04256/2026,CNT/MDA,2026-06-16,2026-06-10 a 2026-06-14,2002,2.2,Presencial,Cenário Principal (1º turno),Renan Santos,Missão,2
+BR-01461/2026,BR-01461/2026,Futura/Apex,2026-06-16,2026-06-08 a 2026-06-12,2000,2.2,Misto,Cenário Principal (1º turno),Lula,PT,41.6
+BR-01461/2026,BR-01461/2026,Futura/Apex,2026-06-16,2026-06-08 a 2026-06-12,2000,2.2,Misto,Cenário Principal (1º turno),Flávio Bolsonaro,PL,34.1
+BR-09956/2026,BR-09956/2026,Datafolha,2026-06-20,2026-06-17 a 2026-06-19,2004,2,Presencial,Cenário Principal (1º turno),Lula,PT,41
+BR-09956/2026,BR-09956/2026,Datafolha,2026-06-20,2026-06-17 a 2026-06-19,2004,2,Presencial,Cenário Principal (1º turno),Flávio Bolsonaro,PL,31
+BR-09956/2026,BR-09956/2026,Datafolha,2026-06-20,2026-06-17 a 2026-06-19,2004,2,Presencial,Cenário Principal (1º turno),Ronaldo Caiado,PSD,3
+BR-09956/2026,BR-09956/2026,Datafolha,2026-06-20,2026-06-17 a 2026-06-19,2004,2,Presencial,Cenário Principal (1º turno),Renan Santos,Missão,3
+BR-09956/2026,BR-09956/2026,Datafolha,2026-06-20,2026-06-17 a 2026-06-19,2004,2,Presencial,Cenário Principal (1º turno),Romeu Zema,Novo,2
+BR-09956/2026,BR-09956/2026,Datafolha,2026-06-20,2026-06-17 a 2026-06-19,2004,2,Presencial,Cenário Principal (1º turno),Aécio Neves,PSDB,2
+BR-09956/2026,BR-09956/2026,Datafolha,2026-06-20,2026-06-17 a 2026-06-19,2004,2,Presencial,Cenário Principal (1º turno),Joaquim Barbosa,DC,1
+Indexa Pesquisas-2026-06-23,,Indexa Pesquisas,2026-06-23,2026-06-18 a 2026-06-20,2000,2.2,Telefônica,Cenário Principal (1º turno),Lula,PT,42
+Indexa Pesquisas-2026-06-23,,Indexa Pesquisas,2026-06-23,2026-06-18 a 2026-06-20,2000,2.2,Telefônica,Cenário Principal (1º turno),Flávio Bolsonaro,PL,31
+Gerp-2026-06-24,,Gerp,2026-06-24,junho de 2026 (publicada 24/Jun),2000,2,Misto,Cenário Principal (1º turno),Lula,PT,37
+Gerp-2026-06-24,,Gerp,2026-06-24,junho de 2026 (publicada 24/Jun),2000,2,Misto,Cenário Principal (1º turno),Flávio Bolsonaro,PL,34
+PoderData/Aya-2026-06-25,,PoderData/Aya,2026-06-25,junho de 2026 (divulgada 25/Jun),2400,2,Telefônico (RDD),Cenário Principal (1º turno),Lula,PT,40
+PoderData/Aya-2026-06-25,,PoderData/Aya,2026-06-25,junho de 2026 (divulgada 25/Jun),2400,2,Telefônico (RDD),Cenário Principal (1º turno),Flávio Bolsonaro,PL,36
+PoderData/Aya-2026-06-25,,PoderData/Aya,2026-06-25,junho de 2026 (divulgada 25/Jun),2400,2,Telefônico (RDD),Cenário Principal (1º turno),Renan Santos,,4
+PoderData/Aya-2026-06-25,,PoderData/Aya,2026-06-25,junho de 2026 (divulgada 25/Jun),2400,2,Telefônico (RDD),Cenário Principal (1º turno),Ronaldo Caiado,PSD,4
+Vox Brasil-2026-06-27,,Vox Brasil,2026-06-27,2026-06-23 a 2026-06-25,2100,2.15,Pesquisa nacional,Cenário Principal (1º turno),Lula,PT,38.3
+Vox Brasil-2026-06-27,,Vox Brasil,2026-06-27,2026-06-23 a 2026-06-25,2100,2.15,Pesquisa nacional,Cenário Principal (1º turno),Flávio Bolsonaro,PL,32.2
+BR-08521/2026,BR-08521/2026,BTG/Nexus,2026-06-29,2026-06-26 a 2026-06-28,2009,2,Pesquisa nacional,Cenário Principal (1º turno),Lula,PT,42
+BR-08521/2026,BR-08521/2026,BTG/Nexus,2026-06-29,2026-06-26 a 2026-06-28,2009,2,Pesquisa nacional,Cenário Principal (1º turno),Flávio Bolsonaro,PL,34
+BR-08521/2026,BR-08521/2026,BTG/Nexus,2026-06-29,2026-06-26 a 2026-06-28,2009,2,Pesquisa nacional,Cenário Principal (1º turno),Ronaldo Caiado,PSD,5
+BR-08521/2026,BR-08521/2026,BTG/Nexus,2026-06-29,2026-06-26 a 2026-06-28,2009,2,Pesquisa nacional,Cenário Principal (1º turno),Renan Santos,Missão,4
+BR-08521/2026,BR-08521/2026,BTG/Nexus,2026-06-29,2026-06-26 a 2026-06-28,2009,2,Pesquisa nacional,Cenário Principal (1º turno),Romeu Zema,Novo,3
+BR-04582/2026,BR-04582/2026,AtlasIntel,2026-07-01,2026-06-25 a 2026-06-30,5000,1,Online/Big Data,Cenário Principal (1º turno),Lula,PT,46.3
+BR-04582/2026,BR-04582/2026,AtlasIntel,2026-07-01,2026-06-25 a 2026-06-30,5000,1,Online/Big Data,Cenário Principal (1º turno),Flávio Bolsonaro,PL,36.6
+BR-05628/2026,BR-05628/2026,Ideia/Canal Meio,2026-07-08,2026-07-03 a 2026-07-06,1500,2.5,Misto,Cenário Principal (1º turno),Lula,PT,40.4
+BR-05628/2026,BR-05628/2026,Ideia/Canal Meio,2026-07-08,2026-07-03 a 2026-07-06,1500,2.5,Misto,Cenário Principal (1º turno),Flávio Bolsonaro,PL,32
+BR-05628/2026,BR-05628/2026,Ideia/Canal Meio,2026-07-08,2026-07-03 a 2026-07-06,1500,2.5,Misto,Cenário Principal (1º turno),Ronaldo Caiado,PSD,4
+BR-05628/2026,BR-05628/2026,Ideia/Canal Meio,2026-07-08,2026-07-03 a 2026-07-06,1500,2.5,Misto,Cenário Principal (1º turno),Romeu Zema,Novo,2.5
+BR-05628/2026,BR-05628/2026,Ideia/Canal Meio,2026-07-08,2026-07-03 a 2026-07-06,1500,2.5,Misto,Cenário Principal (1º turno),Aécio Neves,PSDB,2
+BR-05628/2026,BR-05628/2026,Ideia/Canal Meio,2026-07-08,2026-07-03 a 2026-07-06,1500,2.5,Misto,Cenário Principal (1º turno),Renan Santos,Missão,2
+BR-03067/2026,BR-03067/2026,Gerp,2026-07-08,2026-07-03 a 2026-07-07,2000,2.2,Misto,Cenário Principal (1º turno),Lula,PT,36
+BR-03067/2026,BR-03067/2026,Gerp,2026-07-08,2026-07-03 a 2026-07-07,2000,2.2,Misto,Cenário Principal (1º turno),Flávio Bolsonaro,PL,36
+BR-03067/2026,BR-03067/2026,Gerp,2026-07-08,2026-07-03 a 2026-07-07,2000,2.2,Misto,Cenário Principal (1º turno),Ronaldo Caiado,PSD,4
+BR-03067/2026,BR-03067/2026,Gerp,2026-07-08,2026-07-03 a 2026-07-07,2000,2.2,Misto,Cenário Principal (1º turno),Renan Santos,Missão,2
+BR-03067/2026,BR-03067/2026,Gerp,2026-07-08,2026-07-03 a 2026-07-07,2000,2.2,Misto,Cenário Principal (1º turno),Romeu Zema,Novo,2
+BR-03067/2026,BR-03067/2026,Gerp,2026-07-08,2026-07-03 a 2026-07-07,2000,2.2,Misto,Cenário Principal (1º turno),Augusto Cury,Avante,1
+BR-03067/2026,BR-03067/2026,Gerp,2026-07-08,2026-07-03 a 2026-07-07,2000,2.2,Misto,Cenário Principal (1º turno),Joaquim Barbosa,DC,1
+BR-07981/2026,BR-07981/2026,BTG/Nexus,2026-07-13,2026-07-10 a 2026-07-12,2003,2,"Telefônica (CATI), todas as regiões",Cenário Principal (1º turno),Lula,PT,40
+BR-07981/2026,BR-07981/2026,BTG/Nexus,2026-07-13,2026-07-10 a 2026-07-12,2003,2,"Telefônica (CATI), todas as regiões",Cenário Principal (1º turno),Flávio Bolsonaro,PL,34
+BR-07981/2026,BR-07981/2026,BTG/Nexus,2026-07-13,2026-07-10 a 2026-07-12,2003,2,"Telefônica (CATI), todas as regiões",Cenário Principal (1º turno),Ronaldo Caiado,PSD,5
+BR-07981/2026,BR-07981/2026,BTG/Nexus,2026-07-13,2026-07-10 a 2026-07-12,2003,2,"Telefônica (CATI), todas as regiões",Cenário Principal (1º turno),Renan Santos,Missão,4
+BR-07981/2026,BR-07981/2026,BTG/Nexus,2026-07-13,2026-07-10 a 2026-07-12,2003,2,"Telefônica (CATI), todas as regiões",Cenário Principal (1º turno),Romeu Zema,Novo,4
+BR-07294/2026,BR-07294/2026,Futura/Apex,2026-07-14,2026-07-07 a 2026-07-11,2000,2.2,"Telefônica, todas as regiões","Cenário Principal (1º turno, estimulado)",Lula,PT,40.1
+BR-07294/2026,BR-07294/2026,Futura/Apex,2026-07-14,2026-07-07 a 2026-07-11,2000,2.2,"Telefônica, todas as regiões","Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,36.8
+BR-07294/2026,BR-07294/2026,Futura/Apex,2026-07-14,2026-07-07 a 2026-07-11,2000,2.2,"Telefônica, todas as regiões","Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,5
+BR-07294/2026,BR-07294/2026,Futura/Apex,2026-07-14,2026-07-07 a 2026-07-11,2000,2.2,"Telefônica, todas as regiões","Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,3.7
+BR-07294/2026,BR-07294/2026,Futura/Apex,2026-07-14,2026-07-07 a 2026-07-11,2000,2.2,"Telefônica, todas as regiões","Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,2.6
+BR-07294/2026,BR-07294/2026,Futura/Apex,2026-07-14,2026-07-07 a 2026-07-11,2000,2.2,"Telefônica, todas as regiões","Cenário Principal (1º turno, estimulado)",Joaquim Barbosa,DC,1.4
+BR-07294/2026,BR-07294/2026,Futura/Apex,2026-07-14,2026-07-07 a 2026-07-11,2000,2.2,"Telefônica, todas as regiões","Cenário Principal (1º turno, estimulado)",Augusto Cury,Avante,1.1
+BR-07181/2026,BR-07181/2026,Quaest/Genial,2026-07-15,2026-07-10 a 2026-07-13,2004,2,"Presencial, todas as regiões","Cenário Principal (1º turno, estimulado)",Lula,PT,40
+BR-07181/2026,BR-07181/2026,Quaest/Genial,2026-07-15,2026-07-10 a 2026-07-13,2004,2,"Presencial, todas as regiões","Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,28
+BR-07181/2026,BR-07181/2026,Quaest/Genial,2026-07-15,2026-07-10 a 2026-07-13,2004,2,"Presencial, todas as regiões","Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,4
+BR-07181/2026,BR-07181/2026,Quaest/Genial,2026-07-15,2026-07-10 a 2026-07-13,2004,2,"Presencial, todas as regiões","Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,3
+BR-07181/2026,BR-07181/2026,Quaest/Genial,2026-07-15,2026-07-10 a 2026-07-13,2004,2,"Presencial, todas as regiões","Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,2
+Quaest/Genial-2026-07-15,,Quaest/Genial,2026-07-15,2026-07-10 a 2026-07-13,2004,2,"Presencial, todas as regiões","Cenário Principal (1º turno, estimulado)",Lula,PT,40
+Quaest/Genial-2026-07-15,,Quaest/Genial,2026-07-15,2026-07-10 a 2026-07-13,2004,2,"Presencial, todas as regiões","Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,28
+Quaest/Genial-2026-07-15,,Quaest/Genial,2026-07-15,2026-07-10 a 2026-07-13,2004,2,"Presencial, todas as regiões","Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,4
+Quaest/Genial-2026-07-15,,Quaest/Genial,2026-07-15,2026-07-10 a 2026-07-13,2004,2,"Presencial, todas as regiões","Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,3
+Quaest/Genial-2026-07-15,,Quaest/Genial,2026-07-15,2026-07-10 a 2026-07-13,2004,2,"Presencial, todas as regiões","Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,2
+BR-00059/2026,BR-00059/2026,PoderData/Aya,2026-07-16,2026-07-12 a 2026-07-15,2400,2,Telefônico (RDD),"Cenário Principal (1º turno, estimulado)",Lula,PT,40
+BR-00059/2026,BR-00059/2026,PoderData/Aya,2026-07-16,2026-07-12 a 2026-07-15,2400,2,Telefônico (RDD),"Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,34
+BR-00059/2026,BR-00059/2026,PoderData/Aya,2026-07-16,2026-07-12 a 2026-07-15,2400,2,Telefônico (RDD),"Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,6
+BR-00059/2026,BR-00059/2026,PoderData/Aya,2026-07-16,2026-07-12 a 2026-07-15,2400,2,Telefônico (RDD),"Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,4
+BR-00059/2026,BR-00059/2026,PoderData/Aya,2026-07-16,2026-07-12 a 2026-07-15,2400,2,Telefônico (RDD),"Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,4
+BR-00059/2026,BR-00059/2026,PoderData/Aya,2026-07-16,2026-07-12 a 2026-07-15,2400,2,Telefônico (RDD),"Cenário Principal (1º turno, estimulado)",Augusto Cury,Avante,3
+BR-02904/2026,BR-02904/2026,Indexa Pesquisas,2026-07-21,2026-07-16 a 2026-07-19,2000,2.2,Telefônica,Cenário Principal (1º turno),Lula,PT,41
+BR-02904/2026,BR-02904/2026,Indexa Pesquisas,2026-07-21,2026-07-16 a 2026-07-19,2000,2.2,Telefônica,Cenário Principal (1º turno),Flávio Bolsonaro,PL,30
+BR-02904/2026,BR-02904/2026,Indexa Pesquisas,2026-07-21,2026-07-16 a 2026-07-19,2000,2.2,Telefônica,Cenário Principal (1º turno),Ronaldo Caiado,PSD,6
+BR-02904/2026,BR-02904/2026,Indexa Pesquisas,2026-07-21,2026-07-16 a 2026-07-19,2000,2.2,Telefônica,Cenário Principal (1º turno),Romeu Zema,Novo,3
+BR-02904/2026,BR-02904/2026,Indexa Pesquisas,2026-07-21,2026-07-16 a 2026-07-19,2000,2.2,Telefônica,Cenário Principal (1º turno),Renan Santos,Missão,3
+BR-02904/2026,BR-02904/2026,Indexa Pesquisas,2026-07-21,2026-07-16 a 2026-07-19,2000,2.2,Telefônica,Cenário Principal (1º turno),Augusto Cury,Avante,1
+BR-02904/2026,BR-02904/2026,Indexa Pesquisas,2026-07-21,2026-07-16 a 2026-07-19,2000,2.2,Telefônica,Cenário Principal (1º turno),Joaquim Barbosa,DC,1
+BR-09247/2026,BR-09247/2026,Real Time Big Data,2026-07-21,2026-07-18 a 2026-07-20,2000,2,Telefônica,Cenário Principal (1º turno),Lula,PT,40
+BR-09247/2026,BR-09247/2026,Real Time Big Data,2026-07-21,2026-07-18 a 2026-07-20,2000,2,Telefônica,Cenário Principal (1º turno),Flávio Bolsonaro,PL,33
+BR-09247/2026,BR-09247/2026,Real Time Big Data,2026-07-21,2026-07-18 a 2026-07-20,2000,2,Telefônica,Cenário Principal (1º turno),Renan Santos,Missão,9
+BR-09247/2026,BR-09247/2026,Real Time Big Data,2026-07-21,2026-07-18 a 2026-07-20,2000,2,Telefônica,Cenário Principal (1º turno),Ronaldo Caiado,PSD,7
+BR-05026/2026,BR-05026/2026,Gerp,2026-07-22,2026-07-15 a 2026-07-17,2000,2.19,Telefônica (CATI),"Cenário Principal (1º turno, estimulado)",Lula,PT,38
+BR-05026/2026,BR-05026/2026,Gerp,2026-07-22,2026-07-15 a 2026-07-17,2000,2.19,Telefônica (CATI),"Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,38
+BR-05026/2026,BR-05026/2026,Gerp,2026-07-22,2026-07-15 a 2026-07-17,2000,2.19,Telefônica (CATI),"Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,3
+BR-05026/2026,BR-05026/2026,Gerp,2026-07-22,2026-07-15 a 2026-07-17,2000,2.19,Telefônica (CATI),"Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,3
+BR-05026/2026,BR-05026/2026,Gerp,2026-07-22,2026-07-15 a 2026-07-17,2000,2.19,Telefônica (CATI),"Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,3
+BR-05026/2026,BR-05026/2026,Gerp,2026-07-22,2026-07-15 a 2026-07-17,2000,2.19,Telefônica (CATI),"Cenário Principal (1º turno, estimulado)",Augusto Cury,Avante,1
+BR-05026/2026,BR-05026/2026,Gerp,2026-07-22,2026-07-15 a 2026-07-17,2000,2.19,Telefônica (CATI),"Cenário Principal (1º turno, estimulado)",Joaquim Barbosa,DC,1
+BR-05026/2026,BR-05026/2026,Gerp,2026-07-22,2026-07-15 a 2026-07-17,2000,2.19,Telefônica (CATI),"Cenário Principal (1º turno, estimulado)",Cabo Daciolo,Mobiliza,1
+BR-05026/2026,BR-05026/2026,Gerp,2026-07-22,2026-07-15 a 2026-07-17,2000,2.19,Telefônica (CATI),"Cenário Principal (1º turno, estimulado)",Samara Martins,UP,1
+BR-01166/2026,BR-01166/2026,Datafolha,2026-07-24,2026-07-22 a 2026-07-24,2004,2,Presencial,"Cenário Principal (1º turno, estimulado)",Lula,PT,40
+BR-01166/2026,BR-01166/2026,Datafolha,2026-07-24,2026-07-22 a 2026-07-24,2004,2,Presencial,"Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,32
+BR-01166/2026,BR-01166/2026,Datafolha,2026-07-24,2026-07-22 a 2026-07-24,2004,2,Presencial,"Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,4
+BR-01166/2026,BR-01166/2026,Datafolha,2026-07-24,2026-07-22 a 2026-07-24,2004,2,Presencial,"Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,3
+BR-01166/2026,BR-01166/2026,Datafolha,2026-07-24,2026-07-22 a 2026-07-24,2004,2,Presencial,"Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,3
+BR-01166/2026,BR-01166/2026,Datafolha,2026-07-24,2026-07-22 a 2026-07-24,2004,2,Presencial,"Cenário Principal (1º turno, estimulado)",Augusto Cury,Avante,2
+BR-01166/2026,BR-01166/2026,Datafolha,2026-07-24,2026-07-22 a 2026-07-24,2004,2,Presencial,"Cenário Principal (1º turno, estimulado)",Samara Martins,UP,1
+BR-01166/2026,BR-01166/2026,Datafolha,2026-07-24,2026-07-22 a 2026-07-24,2004,2,Presencial,"Cenário Principal (1º turno, estimulado)",Cabo Daciolo,Mobiliza,1
+BR-01166/2026,BR-01166/2026,Datafolha,2026-07-24,2026-07-22 a 2026-07-24,2004,2,Presencial,"Cenário Principal (1º turno, estimulado)",Rui Costa Pimenta,PCO,1
+BR-01489/2026,BR-01489/2026,BTG/Nexus,2026-07-27,2026-07-24 a 2026-07-26,2004,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Lula,PT,42
+BR-01489/2026,BR-01489/2026,BTG/Nexus,2026-07-27,2026-07-24 a 2026-07-26,2004,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,33
+BR-01489/2026,BR-01489/2026,BTG/Nexus,2026-07-27,2026-07-24 a 2026-07-26,2004,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,6
+BR-01489/2026,BR-01489/2026,BTG/Nexus,2026-07-27,2026-07-24 a 2026-07-26,2004,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,5
+BR-01489/2026,BR-01489/2026,BTG/Nexus,2026-07-27,2026-07-24 a 2026-07-26,2004,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,3
+BR-08602/2026,BR-08602/2026,AtlasIntel,2026-07-29,2026-07-22 a 2026-07-27,5021,1,"Online, recrutamento digital aleatório (Atlas RDR)","Cenário Principal (1º turno, estimulado)",Lula,PT,44.9
+BR-08602/2026,BR-08602/2026,AtlasIntel,2026-07-29,2026-07-22 a 2026-07-27,5021,1,"Online, recrutamento digital aleatório (Atlas RDR)","Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,35.8
+BR-08602/2026,BR-08602/2026,AtlasIntel,2026-07-29,2026-07-22 a 2026-07-27,5021,1,"Online, recrutamento digital aleatório (Atlas RDR)","Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,7.8
+BR-08602/2026,BR-08602/2026,AtlasIntel,2026-07-29,2026-07-22 a 2026-07-27,5021,1,"Online, recrutamento digital aleatório (Atlas RDR)","Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,3.1
+BR-08602/2026,BR-08602/2026,AtlasIntel,2026-07-29,2026-07-22 a 2026-07-27,5021,1,"Online, recrutamento digital aleatório (Atlas RDR)","Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,2.8
+BR-08602/2026,BR-08602/2026,AtlasIntel,2026-07-29,2026-07-22 a 2026-07-27,5021,1,"Online, recrutamento digital aleatório (Atlas RDR)","Cenário Principal (1º turno, estimulado)",Samara Martins,UP,2.1
+BR-08602/2026,BR-08602/2026,AtlasIntel,2026-07-29,2026-07-22 a 2026-07-27,5021,1,"Online, recrutamento digital aleatório (Atlas RDR)","Cenário Principal (1º turno, estimulado)",Augusto Cury,Avante,1.6
+BR-07845/2026,BR-07845/2026,PoderData/Aya,2026-07-30,2026-07-26 a 2026-07-29,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Lula,PT,41
+BR-07845/2026,BR-07845/2026,PoderData/Aya,2026-07-30,2026-07-26 a 2026-07-29,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,35
+BR-07845/2026,BR-07845/2026,PoderData/Aya,2026-07-30,2026-07-26 a 2026-07-29,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,5
+BR-07845/2026,BR-07845/2026,PoderData/Aya,2026-07-30,2026-07-26 a 2026-07-29,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,4
+BR-07845/2026,BR-07845/2026,PoderData/Aya,2026-07-30,2026-07-26 a 2026-07-29,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,3
+BR-07845/2026,BR-07845/2026,PoderData/Aya,2026-07-30,2026-07-26 a 2026-07-29,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Augusto Cury,Avante,3
+BR-01084/2026,BR-01084/2026,Vox Brasil,2026-07-31,2026-07-26 a 2026-07-28,2100,2.15,Presencial,"Cenário Principal (1º turno, estimulado)",Lula,PT,40.5
+BR-01084/2026,BR-01084/2026,Vox Brasil,2026-07-31,2026-07-26 a 2026-07-28,2100,2.15,Presencial,"Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,31.2
+BR-01084/2026,BR-01084/2026,Vox Brasil,2026-07-31,2026-07-26 a 2026-07-28,2100,2.15,Presencial,"Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,5.5
+BR-01084/2026,BR-01084/2026,Vox Brasil,2026-07-31,2026-07-26 a 2026-07-28,2100,2.15,Presencial,"Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,3.2
+BR-01084/2026,BR-01084/2026,Vox Brasil,2026-07-31,2026-07-26 a 2026-07-28,2100,2.15,Presencial,"Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,3
+BR-02874/2026,BR-02874/2026,BTG/Nexus,2026-08-03,2026-07-31 a 2026-08-02,2002,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Lula,PT,41
+BR-02874/2026,BR-02874/2026,BTG/Nexus,2026-08-03,2026-07-31 a 2026-08-02,2002,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,37
+BR-02874/2026,BR-02874/2026,BTG/Nexus,2026-08-03,2026-07-31 a 2026-08-02,2002,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,5
+BR-02874/2026,BR-02874/2026,BTG/Nexus,2026-08-03,2026-07-31 a 2026-08-02,2002,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,4
+BR-02874/2026,BR-02874/2026,BTG/Nexus,2026-08-03,2026-07-31 a 2026-08-02,2002,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,3
+BR-06591/2026,BR-06591/2026,Quaest/Genial,2026-08-05,2026-07-31 a 2026-08-03,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Lula,PT,39
+BR-06591/2026,BR-06591/2026,Quaest/Genial,2026-08-05,2026-07-31 a 2026-08-03,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,30
+BR-06591/2026,BR-06591/2026,Quaest/Genial,2026-08-05,2026-07-31 a 2026-08-03,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,4
+BR-06591/2026,BR-06591/2026,Quaest/Genial,2026-08-05,2026-07-31 a 2026-08-03,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,4
+BR-06591/2026,BR-06591/2026,Quaest/Genial,2026-08-05,2026-07-31 a 2026-08-03,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,2
+BR-06591/2026,BR-06591/2026,Quaest/Genial,2026-08-05,2026-07-31 a 2026-08-03,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Augusto Cury,Avante,1
+BR-06591/2026,BR-06591/2026,Quaest/Genial,2026-08-05,2026-07-31 a 2026-08-03,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Cabo Daciolo,Mobiliza,1
+BR-06591/2026,BR-06591/2026,Quaest/Genial,2026-08-05,2026-07-31 a 2026-08-03,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Samara Martins,UP,1
+BR-04579/2026,BR-04579/2026,Ideia/Canal Meio,2026-08-05,2026-07-31 a 2026-08-03,1500,2.5,Telefônica,"Cenário Principal (1º turno, estimulado)",Lula,PT,43
+BR-04579/2026,BR-04579/2026,Ideia/Canal Meio,2026-08-05,2026-07-31 a 2026-08-03,1500,2.5,Telefônica,"Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,35
+BR-04579/2026,BR-04579/2026,Ideia/Canal Meio,2026-08-05,2026-07-31 a 2026-08-03,1500,2.5,Telefônica,"Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,5.7
+BR-04579/2026,BR-04579/2026,Ideia/Canal Meio,2026-08-05,2026-07-31 a 2026-08-03,1500,2.5,Telefônica,"Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,4.7
+BR-04579/2026,BR-04579/2026,Ideia/Canal Meio,2026-08-05,2026-07-31 a 2026-08-03,1500,2.5,Telefônica,"Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,2.6
+BR-04579/2026,BR-04579/2026,Ideia/Canal Meio,2026-08-05,2026-07-31 a 2026-08-03,1500,2.5,Telefônica,"Cenário Principal (1º turno, estimulado)",Augusto Cury,Avante,1.7
+BR-04579/2026,BR-04579/2026,Ideia/Canal Meio,2026-08-05,2026-07-31 a 2026-08-03,1500,2.5,Telefônica,"Cenário Principal (1º turno, estimulado)",Cabo Daciolo,Mobiliza,0.6
+BR-04579/2026,BR-04579/2026,Ideia/Canal Meio,2026-08-05,2026-07-31 a 2026-08-03,1500,2.5,Telefônica,"Cenário Principal (1º turno, estimulado)",Samara Martins,UP,0.3
+BR-06596/2026,BR-06596/2026,Palver,2026-08-10,2026-08-03 a 2026-08-09,5000,3,"Online, questionário pela internet","Cenário Principal (1º turno, estimulado)",Lula,PT,44
+BR-06596/2026,BR-06596/2026,Palver,2026-08-10,2026-08-03 a 2026-08-09,5000,3,"Online, questionário pela internet","Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,40
+BR-06596/2026,BR-06596/2026,Palver,2026-08-10,2026-08-03 a 2026-08-09,5000,3,"Online, questionário pela internet","Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,10
+BR-08428/2026,BR-08428/2026,BTG/Nexus,2026-08-10,2026-08-07 a 2026-08-09,2001,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Lula,PT,40
+BR-08428/2026,BR-08428/2026,BTG/Nexus,2026-08-10,2026-08-07 a 2026-08-09,2001,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,35
+BR-08428/2026,BR-08428/2026,BTG/Nexus,2026-08-10,2026-08-07 a 2026-08-09,2001,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,5
+BR-08428/2026,BR-08428/2026,BTG/Nexus,2026-08-10,2026-08-07 a 2026-08-09,2001,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,4
+BR-08428/2026,BR-08428/2026,BTG/Nexus,2026-08-10,2026-08-07 a 2026-08-09,2001,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,3
+BR-06935/2026,BR-06935/2026,CNT/MDA,2026-08-11,2026-08-05 a 2026-08-08,2002,2.2,"Presencial, todas as regiões","Cenário Principal (1º turno, estimulado)",Lula,PT,42.4
+BR-06935/2026,BR-06935/2026,CNT/MDA,2026-08-11,2026-08-05 a 2026-08-08,2002,2.2,"Presencial, todas as regiões","Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,28.7
+BR-08045/2026,BR-08045/2026,Gerp,2026-08-11,2026-08-06 a 2026-08-10,2400,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Lula,PT,38
+BR-08045/2026,BR-08045/2026,Gerp,2026-08-11,2026-08-06 a 2026-08-10,2400,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,38
+BR-08045/2026,BR-08045/2026,Gerp,2026-08-11,2026-08-06 a 2026-08-10,2400,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,5
+BR-08045/2026,BR-08045/2026,Gerp,2026-08-11,2026-08-06 a 2026-08-10,2400,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,4
+BR-08045/2026,BR-08045/2026,Gerp,2026-08-11,2026-08-06 a 2026-08-10,2400,2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,2
+BR-08109/2026,BR-08109/2026,Futura Inteligência,2026-08-11,2026-08-03 a 2026-08-07,2000,2.2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Lula,PT,38.8
+BR-08109/2026,BR-08109/2026,Futura Inteligência,2026-08-11,2026-08-03 a 2026-08-07,2000,2.2,"Telefônica (CATI), todas as regiões","Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,34.1
+BR-06868/2026,BR-06868/2026,PoderData/Aya,2026-08-13,2026-08-09 a 2026-08-12,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Lula,PT,41
+BR-06868/2026,BR-06868/2026,PoderData/Aya,2026-08-13,2026-08-09 a 2026-08-12,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,35
+BR-06773/2026,BR-06773/2026,Quaest/Genial,2026-08-14,2026-08-10 a 2026-08-13,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Lula,PT,38
+BR-06773/2026,BR-06773/2026,Quaest/Genial,2026-08-14,2026-08-10 a 2026-08-13,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,31
+BR-06773/2026,BR-06773/2026,Quaest/Genial,2026-08-14,2026-08-10 a 2026-08-13,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,4
+BR-06773/2026,BR-06773/2026,Quaest/Genial,2026-08-14,2026-08-10 a 2026-08-13,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,4
+BR-06773/2026,BR-06773/2026,Quaest/Genial,2026-08-14,2026-08-10 a 2026-08-13,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Augusto Cury,Avante,2
+BR-06773/2026,BR-06773/2026,Quaest/Genial,2026-08-14,2026-08-10 a 2026-08-13,2004,2,"Presencial, 120 municípios","Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,2
+BR-03317/2026,BR-03317/2026,BTG/Nexus,2026-08-17,2026-08-14 a 2026-08-16,2003,2,Telefone,"Cenário Principal (1º turno, estimulado)",Lula,PT,41
+BR-03317/2026,BR-03317/2026,BTG/Nexus,2026-08-17,2026-08-14 a 2026-08-16,2003,2,Telefone,"Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,36
+BR-03317/2026,BR-03317/2026,BTG/Nexus,2026-08-17,2026-08-14 a 2026-08-16,2003,2,Telefone,"Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,5
+BR-03317/2026,BR-03317/2026,BTG/Nexus,2026-08-17,2026-08-14 a 2026-08-16,2003,2,Telefone,"Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,4
+BR-03317/2026,BR-03317/2026,BTG/Nexus,2026-08-17,2026-08-14 a 2026-08-16,2003,2,Telefone,"Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,4
+BR-04496/2026,BR-04496/2026,Datafolha,2026-08-21,2026-08-18 a 2026-08-20,2058,2,Presencial,Cenário estimulado COM Pablo Marçal (1º turno),Lula,PT,39
+BR-04496/2026,BR-04496/2026,Datafolha,2026-08-21,2026-08-18 a 2026-08-20,2058,2,Presencial,Cenário estimulado COM Pablo Marçal (1º turno),Flávio Bolsonaro,PL,32
+BR-04496/2026,BR-04496/2026,Datafolha,2026-08-21,2026-08-18 a 2026-08-20,2058,2,Presencial,Cenário estimulado COM Pablo Marçal (1º turno),Ronaldo Caiado,PSD,5
+BR-04496/2026,BR-04496/2026,Datafolha,2026-08-21,2026-08-18 a 2026-08-20,2058,2,Presencial,Cenário estimulado COM Pablo Marçal (1º turno),Renan Santos,Missão,4
+BR-04496/2026,BR-04496/2026,Datafolha,2026-08-21,2026-08-18 a 2026-08-20,2058,2,Presencial,Cenário estimulado COM Pablo Marçal (1º turno),Romeu Zema,Novo,3
+BR-04496/2026,BR-04496/2026,Datafolha,2026-08-21,2026-08-18 a 2026-08-20,2058,2,Presencial,Cenário estimulado COM Pablo Marçal (1º turno),Pablo Marçal,PRTB,2
+BR-04496/2026,BR-04496/2026,Datafolha,2026-08-21,2026-08-18 a 2026-08-20,2058,2,Presencial,Cenário estimulado COM Pablo Marçal (1º turno),Augusto Cury,Avante,2
+BR-04496/2026,BR-04496/2026,Datafolha,2026-08-21,2026-08-18 a 2026-08-20,2058,2,Presencial,Cenário estimulado SEM Pablo Marçal (1º turno),Lula,PT,39
+BR-04496/2026,BR-04496/2026,Datafolha,2026-08-21,2026-08-18 a 2026-08-20,2058,2,Presencial,Cenário estimulado SEM Pablo Marçal (1º turno),Flávio Bolsonaro,PL,33
+BR-04496/2026,BR-04496/2026,Datafolha,2026-08-21,2026-08-18 a 2026-08-20,2058,2,Presencial,Cenário estimulado SEM Pablo Marçal (1º turno),Ronaldo Caiado,PSD,5
+BR-04496/2026,BR-04496/2026,Datafolha,2026-08-21,2026-08-18 a 2026-08-20,2058,2,Presencial,Cenário estimulado SEM Pablo Marçal (1º turno),Renan Santos,Missão,4
+BR-04496/2026,BR-04496/2026,Datafolha,2026-08-21,2026-08-18 a 2026-08-20,2058,2,Presencial,Cenário estimulado SEM Pablo Marçal (1º turno),Romeu Zema,Novo,3
+BR-04496/2026,BR-04496/2026,Datafolha,2026-08-21,2026-08-18 a 2026-08-20,2058,2,Presencial,Cenário estimulado SEM Pablo Marçal (1º turno),Augusto Cury,Avante,2
+BR-04006/2026,BR-04006/2026,Veritá,2026-08-21,2026-08-16 a 2026-08-20,3840,2,Presencial,"Cenário Principal (1º turno, estimulado)",Lula,PT,39.3
+BR-04006/2026,BR-04006/2026,Veritá,2026-08-21,2026-08-16 a 2026-08-20,3840,2,Presencial,"Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,39.1
+BR-04006/2026,BR-04006/2026,Veritá,2026-08-21,2026-08-16 a 2026-08-20,3840,2,Presencial,"Cenário Principal (1º turno, estimulado)",Pablo Marçal,PRTB,5.2
+BR-04006/2026,BR-04006/2026,Veritá,2026-08-21,2026-08-16 a 2026-08-20,3840,2,Presencial,"Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,3.8
+BR-04006/2026,BR-04006/2026,Veritá,2026-08-21,2026-08-16 a 2026-08-20,3840,2,Presencial,"Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,3.3
+BR-04006/2026,BR-04006/2026,Veritá,2026-08-21,2026-08-16 a 2026-08-20,3840,2,Presencial,"Cenário Principal (1º turno, estimulado)",Augusto Cury,Avante,2.2
+BR-04006/2026,BR-04006/2026,Veritá,2026-08-21,2026-08-16 a 2026-08-20,3840,2,Presencial,"Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,1.3
+BR-09028/2026,BR-09028/2026,BTG/Nexus,2026-08-24,2026-08-21 a 2026-08-23,2006,2,Telefone,Cenário estimulado SEM Pablo Marçal (1º turno),Lula,PT,41
+BR-09028/2026,BR-09028/2026,BTG/Nexus,2026-08-24,2026-08-21 a 2026-08-23,2006,2,Telefone,Cenário estimulado SEM Pablo Marçal (1º turno),Flávio Bolsonaro,PL,37
+BR-09028/2026,BR-09028/2026,BTG/Nexus,2026-08-24,2026-08-21 a 2026-08-23,2006,2,Telefone,Cenário estimulado SEM Pablo Marçal (1º turno),Ronaldo Caiado,PSD,5
+BR-09028/2026,BR-09028/2026,BTG/Nexus,2026-08-24,2026-08-21 a 2026-08-23,2006,2,Telefone,Cenário estimulado SEM Pablo Marçal (1º turno),Renan Santos,Missão,3
+BR-09028/2026,BR-09028/2026,BTG/Nexus,2026-08-24,2026-08-21 a 2026-08-23,2006,2,Telefone,Cenário estimulado SEM Pablo Marçal (1º turno),Romeu Zema,Novo,3
+BR-09028/2026,BR-09028/2026,BTG/Nexus,2026-08-24,2026-08-21 a 2026-08-23,2006,2,Telefone,Cenário estimulado SEM Pablo Marçal (1º turno),Augusto Cury,Avante,2
+BR-09028/2026,BR-09028/2026,BTG/Nexus,2026-08-24,2026-08-21 a 2026-08-23,2006,2,Telefone,Cenário estimulado SEM Pablo Marçal (1º turno),Samara Martins,UP,1
+BR-09028/2026,BR-09028/2026,BTG/Nexus,2026-08-24,2026-08-21 a 2026-08-23,2006,2,Telefone,Cenário estimulado COM Pablo Marçal (1º turno),Lula,PT,40
+BR-09028/2026,BR-09028/2026,BTG/Nexus,2026-08-24,2026-08-21 a 2026-08-23,2006,2,Telefone,Cenário estimulado COM Pablo Marçal (1º turno),Flávio Bolsonaro,PL,34
+BR-09028/2026,BR-09028/2026,BTG/Nexus,2026-08-24,2026-08-21 a 2026-08-23,2006,2,Telefone,Cenário estimulado COM Pablo Marçal (1º turno),Pablo Marçal,PRTB,4
+BR-03547/2026,BR-03547/2026,Gerp,2026-08-26,2026-08-21 a 2026-08-25,2400,2,Misto,Cenário estimulado (1º turno),Flávio Bolsonaro,PL,38
+BR-03547/2026,BR-03547/2026,Gerp,2026-08-26,2026-08-21 a 2026-08-25,2400,2,Misto,Cenário estimulado (1º turno),Lula,PT,37
+BR-03547/2026,BR-03547/2026,Gerp,2026-08-26,2026-08-21 a 2026-08-25,2400,2,Misto,Cenário estimulado (1º turno),Pablo Marçal,PRTB,4
+BR-03547/2026,BR-03547/2026,Gerp,2026-08-26,2026-08-21 a 2026-08-25,2400,2,Misto,Cenário estimulado (1º turno),Renan Santos,Missão,3
+BR-03547/2026,BR-03547/2026,Gerp,2026-08-26,2026-08-21 a 2026-08-25,2400,2,Misto,Cenário estimulado (1º turno),Ronaldo Caiado,PSD,3
+BR-06366/2026,BR-06366/2026,Indexa/Broadcast,2026-08-26,2026-08-20 a 2026-08-23,2000,2.2,Telefone,Cenário estimulado SEM Pablo Marçal (1º turno),Lula,PT,39
+BR-06366/2026,BR-06366/2026,Indexa/Broadcast,2026-08-26,2026-08-20 a 2026-08-23,2000,2.2,Telefone,Cenário estimulado SEM Pablo Marçal (1º turno),Flávio Bolsonaro,PL,34
+BR-06366/2026,BR-06366/2026,Indexa/Broadcast,2026-08-26,2026-08-20 a 2026-08-23,2000,2.2,Telefone,Cenário estimulado SEM Pablo Marçal (1º turno),Ronaldo Caiado,PSD,5
+BR-06366/2026,BR-06366/2026,Indexa/Broadcast,2026-08-26,2026-08-20 a 2026-08-23,2000,2.2,Telefone,Cenário estimulado SEM Pablo Marçal (1º turno),Renan Santos,Missão,4
+BR-06366/2026,BR-06366/2026,Indexa/Broadcast,2026-08-26,2026-08-20 a 2026-08-23,2000,2.2,Telefone,Cenário estimulado SEM Pablo Marçal (1º turno),Romeu Zema,Novo,1
+BR-06366/2026,BR-06366/2026,Indexa/Broadcast,2026-08-26,2026-08-20 a 2026-08-23,2000,2.2,Telefone,Cenário estimulado SEM Pablo Marçal (1º turno),Augusto Cury,Avante,1
+BR-06366/2026,BR-06366/2026,Indexa/Broadcast,2026-08-26,2026-08-20 a 2026-08-23,2000,2.2,Telefone,Cenário estimulado COM Pablo Marçal (1º turno),Lula,PT,39
+BR-06366/2026,BR-06366/2026,Indexa/Broadcast,2026-08-26,2026-08-20 a 2026-08-23,2000,2.2,Telefone,Cenário estimulado COM Pablo Marçal (1º turno),Flávio Bolsonaro,PL,33
+BR-06366/2026,BR-06366/2026,Indexa/Broadcast,2026-08-26,2026-08-20 a 2026-08-23,2000,2.2,Telefone,Cenário estimulado COM Pablo Marçal (1º turno),Ronaldo Caiado,PSD,5
+BR-06366/2026,BR-06366/2026,Indexa/Broadcast,2026-08-26,2026-08-20 a 2026-08-23,2000,2.2,Telefone,Cenário estimulado COM Pablo Marçal (1º turno),Renan Santos,Missão,4
+BR-06366/2026,BR-06366/2026,Indexa/Broadcast,2026-08-26,2026-08-20 a 2026-08-23,2000,2.2,Telefone,Cenário estimulado COM Pablo Marçal (1º turno),Pablo Marçal,PRTB,2
+BR-06366/2026,BR-06366/2026,Indexa/Broadcast,2026-08-26,2026-08-20 a 2026-08-23,2000,2.2,Telefone,Cenário estimulado COM Pablo Marçal (1º turno),Romeu Zema,Novo,1
+BR-04974/2026,BR-04974/2026,PoderData/Aya,2026-08-27,2026-08-23 a 2026-08-26,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Lula,PT,38
+BR-04974/2026,BR-04974/2026,PoderData/Aya,2026-08-27,2026-08-23 a 2026-08-26,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,35
+BR-04974/2026,BR-04974/2026,PoderData/Aya,2026-08-27,2026-08-23 a 2026-08-26,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,4
+BR-04974/2026,BR-04974/2026,PoderData/Aya,2026-08-27,2026-08-23 a 2026-08-26,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,4
+BR-04974/2026,BR-04974/2026,PoderData/Aya,2026-08-27,2026-08-23 a 2026-08-26,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Augusto Cury,Avante,4
+BR-04974/2026,BR-04974/2026,PoderData/Aya,2026-08-27,2026-08-23 a 2026-08-26,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Pablo Marçal,PRTB,3
+BR-04974/2026,BR-04974/2026,PoderData/Aya,2026-08-27,2026-08-23 a 2026-08-26,2400,2,Telefônico (celular e fixo),"Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,2
+BR-05519/2026,BR-05519/2026,Vox Brasil,2026-08-29,2026-08-25 a 2026-08-27,2100,2.15,Presencial,"Cenário Principal (1º turno, estimulado)",Lula,PT,37.1
+BR-05519/2026,BR-05519/2026,Vox Brasil,2026-08-29,2026-08-25 a 2026-08-27,2100,2.15,Presencial,"Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,34.8
+BR-05519/2026,BR-05519/2026,Vox Brasil,2026-08-29,2026-08-25 a 2026-08-27,2100,2.15,Presencial,"Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,5
+BR-05519/2026,BR-05519/2026,Vox Brasil,2026-08-29,2026-08-25 a 2026-08-27,2100,2.15,Presencial,"Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,3.3
+BR-05519/2026,BR-05519/2026,Vox Brasil,2026-08-29,2026-08-25 a 2026-08-27,2100,2.15,Presencial,"Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,2.8
+BR-05519/2026,BR-05519/2026,Vox Brasil,2026-08-29,2026-08-25 a 2026-08-27,2100,2.15,Presencial,"Cenário Principal (1º turno, estimulado)",Augusto Cury,Avante,2.6
+BR-07972/2026,BR-07972/2026,AtlasIntel/Bloomberg,2026-08-31,2026-08-25 a 2026-08-30,5014,1,Online/Big Data,"Cenario Principal (1º turno, estimulado)",Lula,PT,43.4
+BR-07972/2026,BR-07972/2026,AtlasIntel/Bloomberg,2026-08-31,2026-08-25 a 2026-08-30,5014,1,Online/Big Data,"Cenario Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,33.7
+BR-07972/2026,BR-07972/2026,AtlasIntel/Bloomberg,2026-08-31,2026-08-25 a 2026-08-30,5014,1,Online/Big Data,"Cenario Principal (1º turno, estimulado)",Augusto Cury,Avante,7.8
+BR-07972/2026,BR-07972/2026,AtlasIntel/Bloomberg,2026-08-31,2026-08-25 a 2026-08-30,5014,1,Online/Big Data,"Cenario Principal (1º turno, estimulado)",Renan Santos,Missão,7.6
+BR-08900/2026,BR-08900/2026,BTG/Nexus,2026-08-31,2026-08-28 a 2026-08-30,2005,2,Telefone,"Cenario Principal (1º turno, estimulado)",Lula,PT,39
+BR-08900/2026,BR-08900/2026,BTG/Nexus,2026-08-31,2026-08-28 a 2026-08-30,2005,2,Telefone,"Cenario Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,33
+BR-08900/2026,BR-08900/2026,BTG/Nexus,2026-08-31,2026-08-28 a 2026-08-30,2005,2,Telefone,"Cenario Principal (1º turno, estimulado)",Augusto Cury,Avante,11
+BR-08900/2026,BR-08900/2026,BTG/Nexus,2026-08-31,2026-08-28 a 2026-08-30,2005,2,Telefone,"Cenario Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,5
+BR-08900/2026,BR-08900/2026,BTG/Nexus,2026-08-31,2026-08-28 a 2026-08-30,2005,2,Telefone,"Cenario Principal (1º turno, estimulado)",Renan Santos,Missão,3
+BR-08900/2026,BR-08900/2026,BTG/Nexus,2026-08-31,2026-08-28 a 2026-08-30,2005,2,Telefone,"Cenario Principal (1º turno, estimulado)",Romeu Zema,Novo,1
+BR-03490/2026,BR-03490/2026,Real Time Big Data,2026-09-01,2026-08-27 a 2026-08-31,2000,2,Telefônica,Cenário estimulado com Pablo Marçal (1º turno),Lula,PT,38
+BR-03490/2026,BR-03490/2026,Real Time Big Data,2026-09-01,2026-08-27 a 2026-08-31,2000,2,Telefônica,Cenário estimulado com Pablo Marçal (1º turno),Flávio Bolsonaro,PL,29
+BR-03490/2026,BR-03490/2026,Real Time Big Data,2026-09-01,2026-08-27 a 2026-08-31,2000,2,Telefônica,Cenário estimulado com Pablo Marçal (1º turno),Augusto Cury,Avante,10
+BR-03490/2026,BR-03490/2026,Real Time Big Data,2026-09-01,2026-08-27 a 2026-08-31,2000,2,Telefônica,Cenário estimulado com Pablo Marçal (1º turno),Renan Santos,Missão,6
+BR-03490/2026,BR-03490/2026,Real Time Big Data,2026-09-01,2026-08-27 a 2026-08-31,2000,2,Telefônica,Cenário estimulado com Pablo Marçal (1º turno),Ronaldo Caiado,PSD,4
+BR-03490/2026,BR-03490/2026,Real Time Big Data,2026-09-01,2026-08-27 a 2026-08-31,2000,2,Telefônica,Cenário estimulado com Pablo Marçal (1º turno),Pablo Marçal,PRTB,3
+BR-03490/2026,BR-03490/2026,Real Time Big Data,2026-09-01,2026-08-27 a 2026-08-31,2000,2,Telefônica,Cenário estimulado com Pablo Marçal (1º turno),Romeu Zema,Novo,2
+BR-03490/2026,BR-03490/2026,Real Time Big Data,2026-09-01,2026-08-27 a 2026-08-31,2000,2,Telefônica,Cenário estimulado sem Pablo Marçal (1º turno),Lula,PT,38
+BR-03490/2026,BR-03490/2026,Real Time Big Data,2026-09-01,2026-08-27 a 2026-08-31,2000,2,Telefônica,Cenário estimulado sem Pablo Marçal (1º turno),Flávio Bolsonaro,PL,30
+BR-03490/2026,BR-03490/2026,Real Time Big Data,2026-09-01,2026-08-27 a 2026-08-31,2000,2,Telefônica,Cenário estimulado sem Pablo Marçal (1º turno),Augusto Cury,Avante,11
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Lula,PT,37
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Flávio Bolsonaro,PL,30
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Augusto Cury,Avante,10
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Renan Santos,Missão,3
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Ronaldo Caiado,PSD,1
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Romeu Zema,Novo,1
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Pablo Marçal,PRTB,1
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Lula,PT,37
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Flávio Bolsonaro,PL,29
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Augusto Cury,Avante,10
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Renan Santos,Missão,3
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Ronaldo Caiado,PSD,1
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Romeu Zema,Novo,1
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Samara Martins,UP,1
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,"Cenário espontâneo (1º turno, sem nomes mostrados)",Lula,PT,28
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,"Cenário espontâneo (1º turno, sem nomes mostrados)",Flávio Bolsonaro,PL,20
+BR-07065/2026,BR-07065/2026,Quaest/Genial,2026-09-02,2026-08-30 a 2026-09-01,2004,2,Presencial,"Cenário espontâneo (1º turno, sem nomes mostrados)",Augusto Cury,Avante,4
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Lula,PT,39
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Flávio Bolsonaro,PL,32
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Augusto Cury,Avante,7
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Renan Santos,Missão,4
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Ronaldo Caiado,PSD,4
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Romeu Zema,Novo,2
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Pablo Marçal,PRTB,2
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Samara Martins,UP,1
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Lula,PT,38
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Flávio Bolsonaro,PL,33
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Augusto Cury,Avante,8
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Ronaldo Caiado,PSD,4
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Renan Santos,Missão,3
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Romeu Zema,Novo,2
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Samara Martins,UP,1
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Edmilson Costa,PCB,1
+BR-03669/2026,BR-03669/2026,Datafolha,2026-09-03,2026-09-01 a 2026-09-03,2002,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Rui Costa Pimenta,PCO,1
+BR-07561/2026,BR-07561/2026,PoderData,2026-09-03,2026-08-30 a 2026-09-02,3000,2,Telefônica/Online,Cenário estimulado (1º turno),Lula,PT,37
+BR-07561/2026,BR-07561/2026,PoderData,2026-09-03,2026-08-30 a 2026-09-02,3000,2,Telefônica/Online,Cenário estimulado (1º turno),Flávio Bolsonaro,PL,34
+BR-07561/2026,BR-07561/2026,PoderData,2026-09-03,2026-08-30 a 2026-09-02,3000,2,Telefônica/Online,Cenário estimulado (1º turno),Augusto Cury,Avante,10
+BR-07561/2026,BR-07561/2026,PoderData,2026-09-03,2026-08-30 a 2026-09-02,3000,2,Telefônica/Online,Cenário estimulado (1º turno),Renan Santos,Missão,3
+BR-07561/2026,BR-07561/2026,PoderData,2026-09-03,2026-08-30 a 2026-09-02,3000,2,Telefônica/Online,Cenário estimulado (1º turno),Ronaldo Caiado,PSD,2
+BR-07561/2026,BR-07561/2026,PoderData,2026-09-03,2026-08-30 a 2026-09-02,3000,2,Telefônica/Online,Cenário estimulado (1º turno),Pablo Marçal,PRTB,2
+BR-07561/2026,BR-07561/2026,PoderData,2026-09-03,2026-08-30 a 2026-09-02,3000,2,Telefônica/Online,Cenário estimulado (1º turno),Hertz Dias,PSTU,2
+BR-07561/2026,BR-07561/2026,PoderData,2026-09-03,2026-08-30 a 2026-09-02,3000,2,Telefônica/Online,Cenário estimulado (1º turno),Romeu Zema,Novo,1
+BR-07561/2026,BR-07561/2026,PoderData,2026-09-03,2026-08-30 a 2026-09-02,3000,2,Telefônica/Online,Cenário estimulado (1º turno),Edmilson Costa,PCB,1
+BR-07561/2026,BR-07561/2026,PoderData,2026-09-03,2026-08-30 a 2026-09-02,3000,2,Telefônica/Online,Cenário estimulado (1º turno),Samara Martins,UP,1
+BR-07561/2026,BR-07561/2026,PoderData,2026-09-03,2026-08-30 a 2026-09-02,3000,2,Telefônica/Online,Cenário estimulado (1º turno),Clariana Barão,DC,1
+BR-07561/2026,BR-07561/2026,PoderData,2026-09-03,2026-08-30 a 2026-09-02,3000,2,Telefônica/Online,Cenário estimulado (1º turno),Rui Costa Pimenta,PCO,1
+BR-07561/2026,BR-07561/2026,PoderData,2026-09-03,2026-08-30 a 2026-09-02,3000,2,Telefônica/Online,Cenário estimulado (1º turno),Wilson Grassi,Democrata,0
+BR-09426/2026,BR-09426/2026,Veritá,2026-09-06,2026-09-01 a 2026-09-04,3804,2,Telefônica (URA),"Cenário Principal (1º turno, estimulado)",Flávio Bolsonaro,PL,38.9
+BR-09426/2026,BR-09426/2026,Veritá,2026-09-06,2026-09-01 a 2026-09-04,3804,2,Telefônica (URA),"Cenário Principal (1º turno, estimulado)",Lula,PT,38.4
+BR-09426/2026,BR-09426/2026,Veritá,2026-09-06,2026-09-01 a 2026-09-04,3804,2,Telefônica (URA),"Cenário Principal (1º turno, estimulado)",Augusto Cury,Avante,12.2
+BR-09426/2026,BR-09426/2026,Veritá,2026-09-06,2026-09-01 a 2026-09-04,3804,2,Telefônica (URA),"Cenário Principal (1º turno, estimulado)",Renan Santos,Missão,3.7
+BR-09426/2026,BR-09426/2026,Veritá,2026-09-06,2026-09-01 a 2026-09-04,3804,2,Telefônica (URA),"Cenário Principal (1º turno, estimulado)",Ronaldo Caiado,PSD,1.9
+BR-09426/2026,BR-09426/2026,Veritá,2026-09-06,2026-09-01 a 2026-09-04,3804,2,Telefônica (URA),"Cenário Principal (1º turno, estimulado)",Pablo Marçal,PRTB,1.4
+BR-09426/2026,BR-09426/2026,Veritá,2026-09-06,2026-09-01 a 2026-09-04,3804,2,Telefônica (URA),"Cenário Principal (1º turno, estimulado)",Hertz Dias,PSTU,0.4
+BR-09426/2026,BR-09426/2026,Veritá,2026-09-06,2026-09-01 a 2026-09-04,3804,2,Telefônica (URA),"Cenário Principal (1º turno, estimulado)",Edmilson Costa,PCB,0.3
+BR-09426/2026,BR-09426/2026,Veritá,2026-09-06,2026-09-01 a 2026-09-04,3804,2,Telefônica (URA),"Cenário Principal (1º turno, estimulado)",Romeu Zema,Novo,0.3
+BR-09426/2026,BR-09426/2026,Veritá,2026-09-06,2026-09-01 a 2026-09-04,3804,2,Telefônica (URA),"Cenário Principal (1º turno, estimulado)",Clariana Barão,DC,0.3
+BR-09426/2026,BR-09426/2026,Veritá,2026-09-06,2026-09-01 a 2026-09-04,3804,2,Telefônica (URA),"Cenário Principal (1º turno, estimulado)",Samara Martins,UP,0.2
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Lula,PT,36
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Flávio Bolsonaro,PL,29
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Augusto Cury,Avante,8
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Ronaldo Caiado,PSD,3
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Renan Santos,Missão,3
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Romeu Zema,Novo,2
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Pablo Marçal,PRTB,1
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado com Pablo Marçal (1º turno),Samara Martins,UP,1
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Lula,PT,36
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Flávio Bolsonaro,PL,29
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Augusto Cury,Avante,8
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Ronaldo Caiado,PSD,3
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Renan Santos,Missão,3
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Romeu Zema,Novo,2
+BR-01720/2026,BR-01720/2026,Quaest/Genial,2026-09-07,2026-09-03 a 2026-09-06,2004,2,Presencial,Cenário estimulado sem Pablo Marçal (1º turno),Samara Martins,UP,1
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado sem Pablo Marçal (1º turno),Lula,PT,39
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado sem Pablo Marçal (1º turno),Flávio Bolsonaro,PL,35
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado sem Pablo Marçal (1º turno),Augusto Cury,Avante,9
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado sem Pablo Marçal (1º turno),Ronaldo Caiado,PSD,4
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado sem Pablo Marçal (1º turno),Renan Santos,Missão,4
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado sem Pablo Marçal (1º turno),Romeu Zema,Novo,1
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado sem Pablo Marçal (1º turno),Samara Martins,UP,1
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado sem Pablo Marçal (1º turno),Rui Costa Pimenta,PCO,1
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado com Pablo Marçal (1º turno),Lula,PT,39
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado com Pablo Marçal (1º turno),Flávio Bolsonaro,PL,34
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado com Pablo Marçal (1º turno),Augusto Cury,Avante,9
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado com Pablo Marçal (1º turno),Ronaldo Caiado,PSD,4
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado com Pablo Marçal (1º turno),Renan Santos,Missão,4
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado com Pablo Marçal (1º turno),Pablo Marçal,PRTB,3
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado com Pablo Marçal (1º turno),Romeu Zema,Novo,2
+BR-06790/2026,BR-06790/2026,BTG/Nexus,2026-09-08,2026-09-04 a 2026-09-07,2002,2,Telefone,Cenário estimulado com Pablo Marçal (1º turno),Samara Martins,UP,1
+BR-07935/2026,BR-07935/2026,Ideia/Canal Meio,2026-09-09,2026-09-04 a 2026-09-07,1500,2.5,Ideia para o Canal Meio,Cenário estimulado (1º turno),Lula,PT,38.4
+BR-07935/2026,BR-07935/2026,Ideia/Canal Meio,2026-09-09,2026-09-04 a 2026-09-07,1500,2.5,Ideia para o Canal Meio,Cenário estimulado (1º turno),Flávio Bolsonaro,PL,37.3
+BR-07935/2026,BR-07935/2026,Ideia/Canal Meio,2026-09-09,2026-09-04 a 2026-09-07,1500,2.5,Ideia para o Canal Meio,Cenário estimulado (1º turno),Augusto Cury,Avante,6.6
+BR-07935/2026,BR-07935/2026,Ideia/Canal Meio,2026-09-09,2026-09-04 a 2026-09-07,1500,2.5,Ideia para o Canal Meio,Cenário estimulado (1º turno),Renan Santos,Missão,4
+BR-07935/2026,BR-07935/2026,Ideia/Canal Meio,2026-09-09,2026-09-04 a 2026-09-07,1500,2.5,Ideia para o Canal Meio,Cenário estimulado (1º turno),Ronaldo Caiado,PSD,4
+BR-07935/2026,BR-07935/2026,Ideia/Canal Meio,2026-09-09,2026-09-04 a 2026-09-07,1500,2.5,Ideia para o Canal Meio,Cenário estimulado (1º turno),Romeu Zema,Novo,1.5
+BR-07935/2026,BR-07935/2026,Ideia/Canal Meio,2026-09-09,2026-09-04 a 2026-09-07,1500,2.5,Ideia para o Canal Meio,Cenário estimulado (1º turno),Pablo Marçal,PRTB,1.5
+BR-00251/2026,BR-00251/2026,Gerp,2026-09-09,2026-09-03 a 2026-09-08,2400,2,Custeada pelo próprio instituto,Cenário estimulado (1º turno),Flávio Bolsonaro,PL,37
+BR-00251/2026,BR-00251/2026,Gerp,2026-09-09,2026-09-03 a 2026-09-08,2400,2,Custeada pelo próprio instituto,Cenário estimulado (1º turno),Lula,PT,34
+BR-00251/2026,BR-00251/2026,Gerp,2026-09-09,2026-09-03 a 2026-09-08,2400,2,Custeada pelo próprio instituto,Cenário estimulado (1º turno),Augusto Cury,Avante,6
+BR-00251/2026,BR-00251/2026,Gerp,2026-09-09,2026-09-03 a 2026-09-08,2400,2,Custeada pelo próprio instituto,Cenário estimulado (1º turno),Ronaldo Caiado,PSD,5
+BR-00251/2026,BR-00251/2026,Gerp,2026-09-09,2026-09-03 a 2026-09-08,2400,2,Custeada pelo próprio instituto,Cenário estimulado (1º turno),Renan Santos,Missão,4
+BR-00251/2026,BR-00251/2026,Gerp,2026-09-09,2026-09-03 a 2026-09-08,2400,2,Custeada pelo próprio instituto,Cenário estimulado (1º turno),Pablo Marçal,PRTB,2
+BR-00251/2026,BR-00251/2026,Gerp,2026-09-09,2026-09-03 a 2026-09-08,2400,2,Custeada pelo próprio instituto,Cenário estimulado (1º turno),Romeu Zema,Novo,1
+BR-05420/2026,BR-05420/2026,Palver,2026-09-09,2026-09-04 a 2026-09-07,5000,3,"Online, custeada pelo próprio instituto",Cenário estimulado com Pablo Marçal (1º turno),Lula,PT,40
+BR-05420/2026,BR-05420/2026,Palver,2026-09-09,2026-09-04 a 2026-09-07,5000,3,"Online, custeada pelo próprio instituto",Cenário estimulado com Pablo Marçal (1º turno),Flávio Bolsonaro,PL,40
+BR-05420/2026,BR-05420/2026,Palver,2026-09-09,2026-09-04 a 2026-09-07,5000,3,"Online, custeada pelo próprio instituto",Cenário estimulado com Pablo Marçal (1º turno),Renan Santos,Missão,11
+BR-05420/2026,BR-05420/2026,Palver,2026-09-09,2026-09-04 a 2026-09-07,5000,3,"Online, custeada pelo próprio instituto",Cenário estimulado com Pablo Marçal (1º turno),Augusto Cury,Avante,4
+BR-05420/2026,BR-05420/2026,Palver,2026-09-09,2026-09-04 a 2026-09-07,5000,3,"Online, custeada pelo próprio instituto",Cenário estimulado com Pablo Marçal (1º turno),Ronaldo Caiado,PSD,1
+BR-05420/2026,BR-05420/2026,Palver,2026-09-09,2026-09-04 a 2026-09-07,5000,3,"Online, custeada pelo próprio instituto",Cenário estimulado com Pablo Marçal (1º turno),Romeu Zema,Novo,1
+BR-05420/2026,BR-05420/2026,Palver,2026-09-09,2026-09-04 a 2026-09-07,5000,3,"Online, custeada pelo próprio instituto",Cenário estimulado com Pablo Marçal (1º turno),Pablo Marçal,PRTB,1
+BR-05420/2026,BR-05420/2026,Palver,2026-09-09,2026-09-04 a 2026-09-07,5000,3,"Online, custeada pelo próprio instituto",Cenário estimulado sem Pablo Marçal (1º turno),Lula,PT,40
+BR-05420/2026,BR-05420/2026,Palver,2026-09-09,2026-09-04 a 2026-09-07,5000,3,"Online, custeada pelo próprio instituto",Cenário estimulado sem Pablo Marçal (1º turno),Flávio Bolsonaro,PL,39
+BR-05420/2026,BR-05420/2026,Palver,2026-09-09,2026-09-04 a 2026-09-07,5000,3,"Online, custeada pelo próprio instituto",Cenário estimulado sem Pablo Marçal (1º turno),Renan Santos,Missão,11
+BR-05420/2026,BR-05420/2026,Palver,2026-09-09,2026-09-04 a 2026-09-07,5000,3,"Online, custeada pelo próprio instituto",Cenário estimulado sem Pablo Marçal (1º turno),Augusto Cury,Avante,4
+BR-05420/2026,BR-05420/2026,Palver,2026-09-09,2026-09-04 a 2026-09-07,5000,3,"Online, custeada pelo próprio instituto",Cenário estimulado sem Pablo Marçal (1º turno),Ronaldo Caiado,PSD,1
+BR-05420/2026,BR-05420/2026,Palver,2026-09-09,2026-09-04 a 2026-09-07,5000,3,"Online, custeada pelo próprio instituto",Cenário estimulado sem Pablo Marçal (1º turno),Romeu Zema,Novo,1
+BR-04914/2026,BR-04914/2026,PoderData/Aya,2026-09-10,2026-09-06 a 2026-09-09,3000,1.8,Telefônica (URA),Cenário estimulado (1º turno),Lula,PT,38
+BR-04914/2026,BR-04914/2026,PoderData/Aya,2026-09-10,2026-09-06 a 2026-09-09,3000,1.8,Telefônica (URA),Cenário estimulado (1º turno),Flávio Bolsonaro,PL,36
+BR-04914/2026,BR-04914/2026,PoderData/Aya,2026-09-10,2026-09-06 a 2026-09-09,3000,1.8,Telefônica (URA),Cenário estimulado (1º turno),Augusto Cury,Avante,10
+BR-04914/2026,BR-04914/2026,PoderData/Aya,2026-09-10,2026-09-06 a 2026-09-09,3000,1.8,Telefônica (URA),Cenário estimulado (1º turno),Renan Santos,Missão,3
+BR-04914/2026,BR-04914/2026,PoderData/Aya,2026-09-10,2026-09-06 a 2026-09-09,3000,1.8,Telefônica (URA),Cenário estimulado (1º turno),Ronaldo Caiado,PSD,2
+BR-04914/2026,BR-04914/2026,PoderData/Aya,2026-09-10,2026-09-06 a 2026-09-09,3000,1.8,Telefônica (URA),Cenário estimulado (1º turno),Pablo Marçal,PRTB,2

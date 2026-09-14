@@ -90,7 +90,7 @@ Com isso, cada linha passa a ser **um candidato em uma pesquisa de confronto**, 
 
 ### 1. Evolução da Intenção de Voto — 1º turno
 
-![Evolução da Intenção de Voto - 1º turno](dashboard/dashboard1.png)
+![Evolução da Intenção de Voto - 1º turno](dashboards/dashboard1.png)
 
 **O que mostra.** A trajetória da intenção de voto de todos os candidatos ao longo da campanha, de março a setembro de 2026.
 
@@ -109,7 +109,7 @@ Com isso, cada linha passa a ser **um candidato em uma pesquisa de confronto**, 
 
 ### 2. Possíveis 2º Turno
 
-![Possíveis 2º Turno](dashboard/dashboard2.png)
+![Possíveis 2º Turno](dashboards/dashboard2.png)
 
 **O que mostra.** O resultado dos **confrontos diretos de 2º turno** a partir de pesquisas reais de runoff, mais um **panorama de indicadores** do confronto escolhido.
 
@@ -131,7 +131,7 @@ Com isso, cada linha passa a ser **um candidato em uma pesquisa de confronto**, 
 
 ### 3. Amostra Real vs. Polymarket
 
-![Amostra Real vs. Polymarket](dashboard/dashboard3.png)
+![Amostra Real vs. Polymarket](dashboards/dashboard3.png)
 
 **O que mostra.** A comparação, ao longo do tempo, entre o que as **pesquisas** medem ("Amostra Real") e o que o **mercado de apostas** precifica ("Polymarket") para um candidato.
 
